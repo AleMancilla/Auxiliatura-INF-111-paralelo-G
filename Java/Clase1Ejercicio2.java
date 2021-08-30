@@ -20,8 +20,8 @@ public class Clase1Ejercicio2 {
         double total = sueldoBase + comiciones ;
 
         System.out.println(total);
-        
 
+        leer.close();
     } // fin
 
 }
