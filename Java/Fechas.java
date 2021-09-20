@@ -118,5 +118,6 @@ public class Fechas {
         System.out.print(horas);
         System.out.print(":");
         System.out.print(minutos);
+        in.close();
     }
 }

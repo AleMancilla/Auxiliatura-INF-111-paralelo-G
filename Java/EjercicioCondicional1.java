@@ -20,5 +20,7 @@ public class EjercicioCondicional1 {
 
         System.out.println("El monto a pagar es: ");
         System.out.println(fin + " Bs.");
+        leer.close();
+        
     }
 }

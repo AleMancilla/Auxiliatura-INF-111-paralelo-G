@@ -10,5 +10,6 @@ public class CondicionalesAnidadas1 {
         }else{
             System.out.println("Es impar o es negativo");
         }
+        in.close();
     }
 }

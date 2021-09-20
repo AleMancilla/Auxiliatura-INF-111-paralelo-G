@@ -70,6 +70,7 @@ public class MenuSwitch {
         // if(indice > 4){
         //     resultado = a+b;
         // }
+        in.close();
 
     }
 }
