@@ -5,13 +5,6 @@ public class MenuSwitch {
         
         Scanner in = new Scanner(System.in);
 
-        /*
-        dos variables A y B
-        1. -- SUMAR
-        2. -- RESTAR
-        3. -- MULTIPLICAR
-        4. -- DIVIDIR
-        */
         int resultado = 0;
         System.out.println("Introduzca A: ");
         int a = in.nextInt();
@@ -55,21 +48,6 @@ public class MenuSwitch {
         System.err.print("Tu resultado es: ");
         System.err.println(resultado);
 
-        // if(indice == 1){
-        //     resultado = a+b;
-        // }
-        // if(indice == 2){
-        //     resultado = a-b;
-        // }
-        // if(indice == 3){
-        //     resultado = a*b;
-        // }
-        // if(indice == 4){
-        //     resultado = a/b;
-        // }
-        // if(indice > 4){
-        //     resultado = a+b;
-        // }
         in.close();
 
     }
