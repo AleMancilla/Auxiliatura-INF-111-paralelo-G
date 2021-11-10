@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "extras",
         "Solucionario/examenespasados",
+        "Solucionario",
         "Java",
-        "Solucionario"
+        "patito java"
     ]
 }
